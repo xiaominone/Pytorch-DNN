@@ -13,7 +13,7 @@ def get_input_param_optimier(input_img):
     return input_param, optimizer
 
 
-def run_style_transfer(content_img, style_img, input_img, num_epoches=300):
+def run_style_transfer(content_img, style_img, input_img, num_epoches=10):
     print('Building the style transfer model..')
     model, style_loss_list, content_loss_list = get_style_model_and_loss(
         style_img, content_img)
