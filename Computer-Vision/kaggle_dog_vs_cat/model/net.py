@@ -1,4 +1,4 @@
-__author__ = 'SherlockLiao'
+
 
 import torch
 from torchvision import models

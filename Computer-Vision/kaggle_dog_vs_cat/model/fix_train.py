@@ -1,4 +1,3 @@
-__author__ = 'SherlockLiao'
 
 import os
 import time

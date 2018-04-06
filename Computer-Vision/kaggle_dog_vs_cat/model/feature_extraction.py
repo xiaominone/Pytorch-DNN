@@ -1,4 +1,4 @@
-__author__ = 'SherlockLiao'
+
 
 import os
 from tqdm import tqdm

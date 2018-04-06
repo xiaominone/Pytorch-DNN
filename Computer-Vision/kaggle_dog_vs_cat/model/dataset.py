@@ -1,4 +1,4 @@
-__author__ = 'SherlockLiao'
+
 
 import torch
 from torch.utils.data import Dataset
